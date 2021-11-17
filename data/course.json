@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Graphics and Visualization"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b5cf2bab-0422-cafb-34e5-08a528c18e7b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to MATLAB",
+  "course_description": "This is an accelerated introduction to MATLAB\u00ae and its popular toolboxes. Lectures are interactive, with students conducting sample MATLAB problems in real time. The course includes problem-based MATLAB assignments. Students must provide their own laptop and software. This is great preparation for classes that use MATLAB.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.057",
+  "learning_resource_types": [
+    "Programming Assignments",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
